@@ -12,4 +12,4 @@ Business Informatics student (B.Sc.) focusing on software engineering, data-driv
 - StudyMate: study platform with study rooms (lobby, submissions, scoreboard)
 - Joker_Nightlife: Expo app (team project) for events/coupons
 
-📫 Connect: LinkedIn (link)
+📫 Connect: LinkedIn
