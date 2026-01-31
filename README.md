@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Geret 👋
+Business Informatics student (B.Sc.) focusing on software engineering, data-driven applications and applied AI.
 
-<!--
-**Butros55/Butros55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
+- Python / APIs / SQL
+- Flutter + backend services
+- Embedded/IoT projects (ESP32)
 
-Here are some ideas to get you started:
+### Selected projects
+- RpmCounter: ESP32-S3 shift-light firmware + LVGL UI + OBD-II
+- boulder_ai: route analysis (app + API) for bouldering photos
+- StudyMate: study platform with study rooms (lobby, submissions, scoreboard)
+- Joker_Nightlife: Expo app (team project) for events/coupons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect: LinkedIn (link)
