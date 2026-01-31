@@ -11,5 +11,3 @@ Business Informatics student (B.Sc.) focusing on software engineering, data-driv
 - boulder_ai: route analysis (app + API) for bouldering photos
 - StudyMate: study platform with study rooms (lobby, submissions, scoreboard)
 - Joker_Nightlife: Expo app (team project) for events/coupons
-
-📫 Connect: LinkedIn
